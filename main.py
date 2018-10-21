@@ -10,8 +10,8 @@ import binascii
 import platform
 # import threading
 import tkinter as tk
-import MainFrm
 # import SerialHelper
+from MainFrm import MainFrame
 
 # import tkFont
 # import Tkinter as tk
